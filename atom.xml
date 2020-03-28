@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kimchen&#39;s Blog</title>
+  
+  <subtitle>生活本是痛苦，是思想和哲理使其升</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-09-19T07:46:08.515Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Kimchen Zhang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>小王架构师之旅路（面试）</title>
+    <link href="http://yoursite.com/2017/09/19/code-story/"/>
+    <id>http://yoursite.com/2017/09/19/code-story/</id>
+    <published>2017-09-19T06:13:34.000Z</published>
+    <updated>2017-09-19T07:46:08.515Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;  金九银十,是换工作的高峰期,作为运维程师的小王也在蠢蠢欲动,打算给自己换一个钱多,活少,离家近的公司.&lt;/p&gt;
+&lt;p&gt; 
+        
+      
+    
+    </summary>
+    
+    
+      <category term="故事荟" scheme="http://yoursite.com/categories/%E6%95%85%E4%BA%8B%E8%8D%9F/"/>
+    
+    
+      <category term="情感" scheme="http://yoursite.com/tags/%E6%83%85%E6%84%9F/"/>
+    
+      <category term="故事" scheme="http://yoursite.com/tags/%E6%95%85%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>github本地库上传到远程库</title>
+    <link href="http://yoursite.com/2017/09/12/githubrepo/"/>
+    <id>http://yoursite.com/2017/09/12/githubrepo/</id>
+    <published>2017-09-12T15:43:26.000Z</published>
+    <updated>2017-09-12T16:00:50.840Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;中途出了很多问题。做一个记录，方便以后查阅&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Git" scheme="http://yoursite.com/categories/Git/"/>
+    
+    
+      <category term="Git" scheme="http://yoursite.com/tags/Git/"/>
+    
+      <category term="代码管理" scheme="http://yoursite.com/tags/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CentOS6.8搭建自己的Git服务器</title>
+    <link href="http://yoursite.com/2017/09/06/bulidgitserver/"/>
+    <id>http://yoursite.com/2017/09/06/bulidgitserver/</id>
+    <published>2017-09-06T08:46:41.000Z</published>
+    <updated>2017-09-06T12:51:40.082Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;全命令文章，没有太多的文字描述，git是什么？具体各种百科，本文仅仅只是搭建服务器&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Git" scheme="http://yoursite.com/categories/Git/"/>
+    
+    
+      <category term="Git" scheme="http://yoursite.com/tags/Git/"/>
+    
+      <category term="代码托管" scheme="http://yoursite.com/tags/%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java使用xpath解析xml小记</title>
+    <link href="http://yoursite.com/2017/09/06/dom4jxpathparsexml/"/>
+    <id>http://yoursite.com/2017/09/06/dom4jxpathparsexml/</id>
+    <published>2017-09-06T00:55:15.000Z</published>
+    <updated>2017-09-06T09:42:31.407Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;xpath是一门在xml文档中查找信息的语言。xpath用于在XML文档中通过元素和属性进行导航。它的返回值可能是节点，节点集合，文本，以及节点和文本的混合等。因为最近发现处理返回数据如果是json的比较麻烦。特意留意了一下xml，发现了比json处理起来方便多了。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java编程" scheme="http://yoursite.com/categories/Java%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="dom4j" scheme="http://yoursite.com/tags/dom4j/"/>
+    
+      <category term="xpath" scheme="http://yoursite.com/tags/xpath/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringMVC框架初试探</title>
+    <link href="http://yoursite.com/2017/08/27/springmvc-1/"/>
+    <id>http://yoursite.com/2017/08/27/springmvc-1/</id>
+    <published>2017-08-27T02:29:04.000Z</published>
+    <updated>2017-08-27T05:09:40.765Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;框架介绍&quot;&gt;&lt;a href=&quot;#框架介绍&quot; class=&quot;headerlink&quot; title=&quot;框架介绍&quot;&gt;&lt;/a&gt;框架介绍&lt;/h3&gt;&lt;p&gt;Spring Web MVC是一种基于Java的实现了Web MVC设计模式的请求驱动类型的轻量级Web框架，即使用了MVC框架模式的思想，将Web层进行职责解耦，基于请求驱动指的就是使用请求-响应模型，框架的目的就是帮助我们快速开发&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java编程" scheme="http://yoursite.com/categories/Java%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Springmvc" scheme="http://yoursite.com/tags/Springmvc/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式-装饰模式</title>
+    <link href="http://yoursite.com/2017/08/11/decorator/"/>
+    <id>http://yoursite.com/2017/08/11/decorator/</id>
+    <published>2017-08-11T12:33:46.000Z</published>
+    <updated>2017-08-13T03:52:09.417Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;装饰模式指的是在不必改变原类文件和使用继承的情况下，动态地扩展一个对象的功能。它是通过创建一个包装对象，也就是装饰来包裹真实的对象。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java编程" scheme="http://yoursite.com/categories/Java%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="设计模式" scheme="http://yoursite.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="装饰模式" scheme="http://yoursite.com/tags/%E8%A3%85%E9%A5%B0%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式-单例模式</title>
+    <link href="http://yoursite.com/2017/08/07/singleton/"/>
+    <id>http://yoursite.com/2017/08/07/singleton/</id>
+    <published>2017-08-07T12:48:00.000Z</published>
+    <updated>2017-08-07T23:41:19.753Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;单列对象（Singleton）是一种常用的设计模式，在Java应用中，单例对象能保证在一个JVM中，该对象只有一个实例存在。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java编程" scheme="http://yoursite.com/categories/Java%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="设计模式" scheme="http://yoursite.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="单例模式" scheme="http://yoursite.com/tags/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一步一步开发自己的PHP的MVC框架</title>
+    <link href="http://yoursite.com/2017/07/04/diy-php-mvc/"/>
+    <id>http://yoursite.com/2017/07/04/diy-php-mvc/</id>
+    <published>2017-07-04T04:19:07.000Z</published>
+    <updated>2017-08-07T12:51:59.908Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;网络上有大量优秀的MVC框架可供使用，本文章并不是为了开发一个全面的、终极的MVC框架解决方案。我们将它看作是一个很好的从内部学习PHP的机会。在文章中，你将学习PHP面向对象编程和MVC设计模式，并学习到开发中的一些注意事项。更重要的是，通过自制MVC框架，每个人都可以完全控制自己的框架，将你的想法融入到你开发的框架中。虽然不一定是最好的，但是你可以按照自己的方式开发各种功能。那么我们该如何开发自己的MVC框架呢？&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="PHP编程" scheme="http://yoursite.com/categories/PHP%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="MVC" scheme="http://yoursite.com/tags/MVC/"/>
+    
+      <category term="PHP" scheme="http://yoursite.com/tags/PHP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>solr安装配置并增加中文分词器笔记</title>
+    <link href="http://yoursite.com/2017/07/03/solr-install-config/"/>
+    <id>http://yoursite.com/2017/07/03/solr-install-config/</id>
+    <published>2017-07-03T12:26:19.000Z</published>
+    <updated>2017-08-07T12:51:59.887Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Solr是一个高性能，采用Java5开发，基于Lucene的全文搜索服务器。同时对其进行了扩展，提供了比Lucene更为丰富的查询语言，同时实现了可配置、可扩展并对查询性能进行了优化，并且提供了一个完善的功能管理界面，是一款非常优秀的全文搜索引擎。本文将对solr安装配置做详细记录，望指正。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java编程" scheme="http://yoursite.com/categories/Java%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="分布式" scheme="http://yoursite.com/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+    
+      <category term="solr" scheme="http://yoursite.com/tags/solr/"/>
+    
+      <category term="索引库" scheme="http://yoursite.com/tags/%E7%B4%A2%E5%BC%95%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Dubbo框架+SOA服务鼓捣记</title>
+    <link href="http://yoursite.com/2017/07/01/dubbo-soa/"/>
+    <id>http://yoursite.com/2017/07/01/dubbo-soa/</id>
+    <published>2017-07-01T05:51:30.000Z</published>
+    <updated>2017-08-07T12:51:59.833Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Dubbo是一个被国内很多互联网公司广泛使用的开源分布式服务框架，即使从国际视野来看应该也是一个非常全面的SOA基础框架。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java编程" scheme="http://yoursite.com/categories/Java%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="dubbo" scheme="http://yoursite.com/tags/dubbo/"/>
+    
+      <category term="soa" scheme="http://yoursite.com/tags/soa/"/>
+    
+      <category term="分布式" scheme="http://yoursite.com/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java中的任务调度框架Quartz与Spring框架简单使用</title>
+    <link href="http://yoursite.com/2017/06/02/java-Spring-Quartz/"/>
+    <id>http://yoursite.com/2017/06/02/java-Spring-Quartz/</id>
+    <published>2017-06-02T15:29:17.000Z</published>
+    <updated>2017-08-07T12:51:59.872Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Quartz是一个开源的作业调度框架它完全由Java写成，并设计用于 J2SE 和 J2EE 应用中。它提供了巨大的灵活性而不牺牲简单性。你能够用它来为执行一个作业而创建简单的或复杂的调度。本系统结合通过 Spring 来集成 Quartz 。以下只是一个简单的测试。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java编程" scheme="http://yoursite.com/categories/Java%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Quartz" scheme="http://yoursite.com/tags/Quartz/"/>
+    
+      <category term="任务调度" scheme="http://yoursite.com/tags/%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用Spring与javaMail发送邮件</title>
+    <link href="http://yoursite.com/2017/05/29/spring-javamail/"/>
+    <id>http://yoursite.com/2017/05/29/spring-javamail/</id>
+    <published>2017-05-29T14:20:32.000Z</published>
+    <updated>2017-08-07T12:51:59.899Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;随着越来越流行的手机短信的发展，在项目中发邮件使用的比较少，但是毕竟是离不开的，因为短信需要花钱购买，另外有不稳定因素。所以有些功能还是借助于邮件比较好。比如：后端用户增加，可以发送邮件给用户。也可以用来做激活账号等。以下是使用Spring框架中JavaMail所做的测试例子&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java编程" scheme="http://yoursite.com/categories/Java%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Spring" scheme="http://yoursite.com/tags/Spring/"/>
+    
+      <category term="JavaMail" scheme="http://yoursite.com/tags/JavaMail/"/>
+    
+      <category term="邮件" scheme="http://yoursite.com/tags/%E9%82%AE%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>实现Ajax下载</title>
+    <link href="http://yoursite.com/2017/05/26/ajax-download/"/>
+    <id>http://yoursite.com/2017/05/26/ajax-download/</id>
+    <published>2017-05-26T01:00:43.000Z</published>
+    <updated>2017-08-07T12:51:59.829Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;JQuery的ajax函数的返回类型只有xml、text、json、html等类型，没有“流”类型，所以我们要实现ajax下载，不能够使用相应的ajax函数进行文件下载。但可以用js生成一个form，用这个form提交参数，并返回“流”类型的数据。在实现过程中，页面也没有进行刷新。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Web编程" scheme="http://yoursite.com/categories/Web%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="ajax" scheme="http://yoursite.com/tags/ajax/"/>
+    
+      <category term="下载" scheme="http://yoursite.com/tags/%E4%B8%8B%E8%BD%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>win10 64bit nexus3 安装</title>
+    <link href="http://yoursite.com/2017/05/25/nexusus/"/>
+    <id>http://yoursite.com/2017/05/25/nexusus/</id>
+    <published>2017-05-25T15:24:30.000Z</published>
+    <updated>2017-08-07T12:51:59.882Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;为什么要搭建nexus私服，原因很简单，公司不提供外网给项目组人员，因此就不能使用maven访问远程的仓库地址，所以很有必要在局域网里找一台有外网权限的机器，搭建nexus私服，然后开发人员连到这台私服上，这样的话就可以通过这台搭建了nexus私服的电脑访问maven的远程仓库。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java编程" scheme="http://yoursite.com/categories/Java%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="nexus3" scheme="http://yoursite.com/tags/nexus3/"/>
+    
+      <category term="JDK1.8" scheme="http://yoursite.com/tags/JDK1-8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java之架构SSH第二种整合</title>
+    <link href="http://yoursite.com/2017/05/17/java-ssh-v2/"/>
+    <id>http://yoursite.com/2017/05/17/java-ssh-v2/</id>
+    <published>2017-05-17T09:46:57.000Z</published>
+    <updated>2017-08-07T12:51:59.878Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Struts2+Spring+Hibernate三个框架整合(不包含hibernate.cfg.xml)版本，主要是对第一种方法的修改,仅仅只是去除了hibernate.cfg.xml配置文件,对于原基础上仅仅只是修改了applicationContext.xml文件，文中不再赘述第一版的过程，仅仅只是给出applicationContext.xml文件&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java编程" scheme="http://yoursite.com/categories/Java%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="框架整合" scheme="http://yoursite.com/tags/%E6%A1%86%E6%9E%B6%E6%95%B4%E5%90%88/"/>
+    
+      <category term="SSH" scheme="http://yoursite.com/tags/SSH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java之架构SSH第一种整合</title>
+    <link href="http://yoursite.com/2017/05/16/java_ssh_v1/"/>
+    <id>http://yoursite.com/2017/05/16/java_ssh_v1/</id>
+    <published>2017-05-16T15:28:19.000Z</published>
+    <updated>2017-08-07T12:51:59.855Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Struts2+Spring+Hibernate三个框架整合(包含hibernate.cfg.xml)版本，文中不提供包说明。连接池使用C3P0，日志使用log4j。中间踩得坑：SSH说的上是javaweb经典框架，不能说100%要会SSH框架，但是大部分公司都在用，说到框架，都会提到ssh吧，这次就以很简单的例子来整合SSH框架。整合框架要注意的是先每个框架单独测通后再整合，不然整合后出现问题比较难排查。 新手可以慢慢看，老手请给予评价，文中代码部分可能会有点问题，实际都是经过测试过。没有问题的，具体的使用test包中test测试&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java编程" scheme="http://yoursite.com/categories/Java%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="框架整合" scheme="http://yoursite.com/tags/%E6%A1%86%E6%9E%B6%E6%95%B4%E5%90%88/"/>
+    
+      <category term="SSH" scheme="http://yoursite.com/tags/SSH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开篇</title>
+    <link href="http://yoursite.com/2014/11/29/first_blog/"/>
+    <id>http://yoursite.com/2014/11/29/first_blog/</id>
+    <published>2014-11-29T14:26:00.000Z</published>
+    <updated>2017-08-07T12:51:59.837Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;不知道要写一些什么东西。但万事都要有一个开始，也许开始写的非常不好，没有什么思想，文章也没有思路，更不用说读者了。我也要努力把这个博客写好，自己是自己的读者，认真地写。&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+      <category term="碎碎念" scheme="http://yoursite.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    
+      <category term="随便说说" scheme="http://yoursite.com/tags/%E9%9A%8F%E4%BE%BF%E8%AF%B4%E8%AF%B4/"/>
+    
+  </entry>
+  
+</feed>
